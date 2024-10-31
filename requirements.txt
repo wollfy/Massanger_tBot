@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+alembic
+redis
+celery
+aiogram
+python-dotenv
+bcrypt
+httpx
+pytest
+pytest-asyncio
